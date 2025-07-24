@@ -58,5 +58,7 @@ This project is a real-time temperature control system using a PID (Proportional
   - Sends data to Excel (PLX-DAQ)
 
 ---
-
+Contact 
+📧 Email: nadila4295@gmail.com 
+🔗 LinkedIn: www.linkedin.com/in/nadila-gusriyani-8a5877242
 
